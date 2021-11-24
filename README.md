@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elD1ablO
-- 👀 I’m interested in Python, Unity and Arduino projects
+- 👀 I’m interested in Unity, Python and Arduino projects
 - 🌱 I’m currently learning Unity
 
 <!---
